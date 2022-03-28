@@ -1,4 +1,4 @@
-# 📖 AJAX - Fetch y Fetch Async
+# 📖 Fetch y Fetch Async
 
 Free fake API [{JSON} Placeholder](https://jsonplaceholder.typicode.com/users)
 
